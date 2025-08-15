@@ -1,0 +1,2 @@
+# node-worker-threads
+Use of worker threads for CPU intensive tasks
